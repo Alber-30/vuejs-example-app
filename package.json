@@ -1,0 +1,14 @@
+{
+  "name": "vueJs-example-app",
+  "version": "1.0.0",
+  "description": "A simple Vue.js application",
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0"
+  }
+}
